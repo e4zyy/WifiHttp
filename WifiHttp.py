@@ -37,7 +37,7 @@ class WifiHttpSniffer:
 █       █   █   █▄▄▄█   █       █ █   █   █   █ █   █▄█ █
 █       █   █    ▄▄▄█   █   ▄   █ █   █   █   █ █    ▄▄▄█
 █   ▄   █   █   █   █   █  █ █  █ █   █   █   █ █   █    
-█▄▄█ █▄▄█▄▄▄█▄▄▄█   █▄▄▄█▄▄█ █▄▄█ █▄▄▄█   █▄▄▄█ █▄▄▄█   By Xer0TLabs x Persephrak Decentralized Syndicate 
+█▄▄█ █▄▄█▄▄▄█▄▄▄█   █▄▄▄█▄▄█ █▄▄█ █▄▄▄█   █▄▄▄█ █▄▄▄█   By e4zyy | NOEL BUNSIAU
 {Fore.YELLOW}HTTP Traffic Analyzer - Educational Network Security Tool{Style.RESET_ALL}
 {Fore.RED}⚠️  Use only on networks you own or have explicit permission to test!{Style.RESET_ALL}
         """)
