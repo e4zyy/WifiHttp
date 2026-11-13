@@ -192,7 +192,7 @@ If you discover a security issue in this project, do not use it against systems 
 
 ## License
 
-MIT License by Xer0TLabs x Persephrak Decentralized Syndicate
+MIT License by e4zyy | NOEL BUNSIAU
 
 ## Disclaimer
 
